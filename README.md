@@ -57,4 +57,11 @@ The goal of this analysis is to evaluate pricing distributions, host behaviors, 
 3. **Launch Jupyter Notebook**
    ```bash
    jupyter notebook airbnb_analysis.ipynb
+
+👩‍💻 Author
+
+Nandini Bairagi
+
+If you found this project useful, feel free to ⭐ the repository.
+LinkedIn: https://www.linkedin.com/in/nandinibairagi
    
