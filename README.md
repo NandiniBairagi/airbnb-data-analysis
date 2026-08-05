@@ -51,3 +51,10 @@ The goal of this analysis is to evaluate pricing distributions, host behaviors, 
    ```bash
    git clone [https://github.com/YOUR_USERNAME/airbnb-data-analysis-nyc.git](https://github.com/YOUR_USERNAME/airbnb-data-analysis-nyc.git)
    cd airbnb-data-analysis-nyc
+2. **Install required repository**
+   ```bash
+   pip install pandas numpy matplotlib seaborn jupyter
+3. **Launch Jupyter Notebook**
+   ```bash
+   jupyter notebook airbnb_analysis.ipynb
+   
